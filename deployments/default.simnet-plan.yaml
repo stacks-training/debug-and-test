@@ -68,6 +68,21 @@ plan:
       transactions: []
       epoch: "2.1"
     - id: 5
+      transactions: []
+      epoch: "2.1"
+    - id: 6
+      transactions: []
+      epoch: "2.1"
+    - id: 7
+      transactions: []
+      epoch: "2.1"
+    - id: 8
+      transactions: []
+      epoch: "2.1"
+    - id: 9
+      transactions: []
+      epoch: "2.1"
+    - id: 10
       transactions:
         - emulated-contract-publish:
             contract-name: count-token
@@ -80,12 +95,27 @@ plan:
             path: contracts/counter.clar
             clarity-version: 3
       epoch: "3.0"
-    - id: 6
+    - id: 11
       transactions: []
       epoch: "3.0"
-    - id: 7
+    - id: 12
       transactions: []
       epoch: "3.0"
-    - id: 8
+    - id: 13
+      transactions: []
+      epoch: "3.0"
+    - id: 14
+      transactions: []
+      epoch: "3.0"
+    - id: 15
+      transactions: []
+      epoch: "3.0"
+    - id: 16
+      transactions: []
+      epoch: "3.0"
+    - id: 17
+      transactions: []
+      epoch: "3.0"
+    - id: 18
       transactions: []
       epoch: "3.0"
